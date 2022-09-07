@@ -127,5 +127,10 @@ namespace LIBRERIA
                 MessageBox.Show("Pagina en construcción :c");
             }
         }
+
+        private void Lbltotal_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

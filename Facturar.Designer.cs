@@ -227,6 +227,7 @@
             this.Lbltotal.Size = new System.Drawing.Size(25, 30);
             this.Lbltotal.TabIndex = 7;
             this.Lbltotal.Text = "$";
+            this.Lbltotal.Click += new System.EventHandler(this.Lbltotal_Click);
             // 
             // pictureBox1
             // 
